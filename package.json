@@ -1,0 +1,25 @@
+{
+  "name": "mining-eco",
+  "version": "1.0.0",
+  "description": "mining ecosystem platform by hardhat",
+  "main": "index.js",
+  "scripts": {
+    "test": "./test.sh"
+  },
+  "author": "Kyli",
+  "license": "MIT",
+  "devDependencies": {
+    "@chainlink/contracts": "0.0.11",
+    "@nomiclabs/hardhat-ethers": "^2.0.1",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "@openzeppelin/contracts": "^3.3.0",
+    "chai": "^4.2.0",
+    "crypto-random-string": "^3.3.0",
+    "ethereum-waffle": "^3.2.1",
+    "ethers": "^5.0.24",
+    "hardhat": "^2.0.6",
+    "prettier": "^2.2.1",
+    "prettier-plugin-solidity": "^1.0.0-beta.2"
+  },
+  "dependencies": {}
+}
